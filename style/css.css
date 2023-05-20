@@ -4,8 +4,15 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'poppins', sans-serif;
+    outline: none;
 }
-
+.bc{
+    background-image: url(../img/pexels-matt-hardy-1533720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .hero{
     width: 100%;
     height: 100vh;

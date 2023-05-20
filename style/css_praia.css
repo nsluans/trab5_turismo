@@ -130,3 +130,11 @@ nav ul li a{
     font-size: 17px;
     
 }
+
+.container{
+    position: absolute;
+}
+
+.container .idioma{
+    display: none;
+}
